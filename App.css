@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+div {
+  margin: 10px 0;
+}
+
+input, select {
+  margin-left: 10px;
+}
+
+span {
+  color: red;
+  margin-left: 10px;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+}
